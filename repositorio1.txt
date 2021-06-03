@@ -1,1 +1,2 @@
-Meu Primeiro conteudo para aprender mais sobre repositorio git na eescola de tecnologia vida nova backend.
+Meu Primeiro contato com git na escola de tecnologia vida nova
+e quero aprender mais.
